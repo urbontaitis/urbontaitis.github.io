@@ -6,8 +6,10 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.brevetai.lt/2025-1400" class="external-link" target="_blank" rel="noopener"&gt;Event Website&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14944574240"&gt;&lt;/div&gt;
+&lt;div
+ class="strava-embed-placeholder"
+ data-embed-type="activity"
+ data-embed-id="14944574240"&gt;&lt;/div&gt;
 
 &lt;script src="https://strava-embeds.com/embed.js"&gt;&lt;/script&gt;
 

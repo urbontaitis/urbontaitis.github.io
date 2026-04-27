@@ -48,7 +48,7 @@
  &lt;div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden; border-radius: 8px;"&gt;
  &lt;iframe
  name="plotaroute_map_2995755"
- src="https://www.plotaroute.com/embedmap/2995755"
+ src="https://www.plotaroute.com/embedmap/2995755?units=km"
  title="Plotaroute map"
  loading="lazy"
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
@@ -152,7 +152,7 @@
  &lt;div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden; border-radius: 8px;"&gt;
  &lt;iframe
  name="plotaroute_map_1685992"
- src="https://www.plotaroute.com/embedmap/1685992"
+ src="https://www.plotaroute.com/embedmap/1685992?units=km"
  title="Plotaroute map"
  loading="lazy"
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"

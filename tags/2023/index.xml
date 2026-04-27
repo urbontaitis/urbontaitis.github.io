@@ -15,7 +15,7 @@
  &lt;div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden; border-radius: 8px;"&gt;
  &lt;iframe
  name="plotaroute_map_2337783"
- src="https://www.plotaroute.com/embedmap/2337783"
+ src="https://www.plotaroute.com/embedmap/2337783?units=km"
  title="Plotaroute map"
  loading="lazy"
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
@@ -50,7 +50,7 @@
  &lt;div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden; border-radius: 8px;"&gt;
  &lt;iframe
  name="plotaroute_map_2292379"
- src="https://www.plotaroute.com/embedmap/2292379"
+ src="https://www.plotaroute.com/embedmap/2292379?units=km"
  title="Plotaroute map"
  loading="lazy"
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
@@ -81,7 +81,7 @@
  &lt;div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden; border-radius: 8px;"&gt;
  &lt;iframe
  name="plotaroute_map_2264753"
- src="https://www.plotaroute.com/embedmap/2264753"
+ src="https://www.plotaroute.com/embedmap/2264753?units=km"
  title="Plotaroute map"
  loading="lazy"
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
@@ -128,7 +128,7 @@
  &lt;div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden; border-radius: 8px;"&gt;
  &lt;iframe
  name="plotaroute_map_2196263"
- src="https://www.plotaroute.com/embedmap/2196263"
+ src="https://www.plotaroute.com/embedmap/2196263?units=km"
  title="Plotaroute map"
  loading="lazy"
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
@@ -154,7 +154,7 @@
  &lt;div style="position: relative; padding-top: 56.25%; height: 0; overflow: hidden; border-radius: 8px;"&gt;
  &lt;iframe
  name="plotaroute_map_2134873"
- src="https://www.plotaroute.com/embedmap/2134873"
+ src="https://www.plotaroute.com/embedmap/2134873?units=km"
  title="Plotaroute map"
  loading="lazy"
  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"

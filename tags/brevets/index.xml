@@ -5,7 +5,8 @@
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://www.brevetai.lt/2025-1400" class="external-link" target="_blank" rel="noopener"&gt;Event Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.brevetai.lt/2025-1400" class="external-link" target="_blank" rel="noopener noreferrer"&gt;Event Website &lt;i class="fa-solid fa-external-link" aria-hidden="true"&gt;&lt;/i&gt;&lt;span class="sr-only"&gt; external link&lt;/span&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;div
  class="strava-embed-placeholder"
  data-embed-type="activity"
@@ -32,4 +33,4 @@
 &lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;Completion details:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Date: 2025 June 25&lt;br&gt;Distance: 1400 km&lt;br&gt;Time: 79h55&lt;br&gt;Completed in: Lithuania&lt;br&gt;Homologation: 21599&lt;br&gt;Club: LITHUANIA RANDONNEURS&lt;br&gt;Organizer page: &lt;a href="https://www.brevetai.lt/2025-1400" target="_blank" rel="noopener"&gt;brevetai.lt event&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Date: 2025 June 25&lt;br&gt;Distance: 1400 km&lt;br&gt;Elevation: 5627 m&lt;br&gt;Time: 79h55&lt;br&gt;Ride time: 56h 55m&lt;br&gt;Completed in: Lithuania&lt;br&gt;Homologation: 21599&lt;br&gt;Club: LITHUANIA RANDONNEURS&lt;br&gt;Organizer page: &lt;a href="https://www.brevetai.lt/2025-1400" target="_blank" rel="noopener"&gt;brevetai.lt event&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

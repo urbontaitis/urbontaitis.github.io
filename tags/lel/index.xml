@@ -6,7 +6,8 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;img src="https://www.urbontaitis.lt/images/events/lel2017-logo-stacked.png" alt="LEL Logo"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://londonedinburghlondon.com/" class="external-link" target="_blank" rel="noopener"&gt;Event Website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://londonedinburghlondon.com/" class="external-link" target="_blank" rel="noopener noreferrer"&gt;Event Website &lt;i class="fa-solid fa-external-link" aria-hidden="true"&gt;&lt;/i&gt;&lt;span class="sr-only"&gt; external link&lt;/span&gt;&lt;/a&gt;
+&lt;/p&gt;
 &lt;div
  class="strava-embed-placeholder"
  data-embed-type="activity"
